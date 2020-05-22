@@ -1,6 +1,6 @@
 # deno-pogo-todos-api
 
-WIP Deno todos API.
+WIP Deno and Pogo todos API.
 
 ## Prerequisites
 
